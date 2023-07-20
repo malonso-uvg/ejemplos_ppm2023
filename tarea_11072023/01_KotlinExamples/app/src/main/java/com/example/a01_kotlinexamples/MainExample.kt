@@ -2,7 +2,7 @@ package com.example.a01_kotlinexamples
 
 // class Car(var brand: String, var model: String, var year: Int)
 
-class Car{
+class Carro{
     var price : Double
     var brand : String = ""
     var model : String = ""
@@ -51,10 +51,10 @@ fun main(){
         i++
     }
 
-    var auto1 = Car("Nissan", "sentra", 1992)
-    var auto2 = Car("Mazda", "Protege", 1998)
+    var auto1 = Carro("Nissan", "sentra", 1992)
+    var auto2 = Carro("Mazda", "Protege", 1998)
 
-    var automoviles = ArrayList<Car>()
+    var automoviles = ArrayList<Carro>()
 
     automoviles.add(auto1)
     automoviles.add(auto2)
