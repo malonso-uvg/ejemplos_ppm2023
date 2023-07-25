@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">02_Calculator</string>
+    <string-array name="operations">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+        <item>Residuo</item>
+    </string-array>
+</resources>
