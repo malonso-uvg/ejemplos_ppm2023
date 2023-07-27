@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:text="Numero 1:"
         android:textColor="@color/textColor"
-
         android:textSize="24sp" />
 
     <EditText
